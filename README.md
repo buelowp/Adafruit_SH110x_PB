@@ -1,4 +1,10 @@
-[![Build Status](https://github.com/adafruit/Adafruit_SH110X/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_SH110X/actions)
+# Description
+
+## FORK
+
+This was forked to support the Feather OLED from Adafruit on the Particle build system
+
+## Original README
 
 This is a library for our Monochrome OLEDs based on SH110X drivers
 
