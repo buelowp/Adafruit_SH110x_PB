@@ -4,6 +4,18 @@
 
 This was forked to support the Feather OLED from Adafruit on the Particle build system
 
+https://www.adafruit.com/product/4650
+
+To work with the a Particle device and the Adafruit Feather OLED
+
+Install the following libraries and use the OLED_featherwing example in the SH110x library.
+
+* Adafruit_BusIO_PB
+* Adafruit_GFX_Library_PB
+* Adafruit_SH110X_PB
+
+After those three are installed, it will work with particle devices just fine.
+
 ## Original README
 
 This is a library for our Monochrome OLEDs based on SH110X drivers
